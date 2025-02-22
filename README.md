@@ -6,10 +6,10 @@
 wget https://github.com/khendraid/remove-docker/blob/main/remove-docker.sh
 ```
 ```
-chmod +x remove_docker.sh
+chmod +x remove-docker.sh
 ```
 ```
-sudo ./remove_docker.sh
+sudo ./remove-docker.sh
 ```
 
 <h2>Manual</h2>
