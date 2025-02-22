@@ -1,5 +1,17 @@
 <h1>remove docker</h1>
 
+<h2>Auto</h2>
+
+```
+wget https://github.com/khendraid/remove-docker/blob/main/remove-docker.sh
+```
+```
+chmod +x remove_docker.sh
+```
+```
+sudo ./remove_docker.sh
+```
+
 <h2>Manual</h2>
 
 <h3>stop the Docker service to ensure no processes are running</h3>
